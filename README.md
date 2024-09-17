@@ -1,6 +1,3 @@
-# CRUD---POO-em-Python
-Projeto de CRUD para manipulação de dicionarios
-
 # Projeto Final de Programação Orientada a Objetos (POO)
 
 Este repositório contém o código do projeto final da disciplina de Programação Orientada a Objetos (POO) do curso de Engenharia de Dados da ADA Tech.
